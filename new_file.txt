@@ -1,0 +1,3 @@
+This is 1st text document
+Now editing this so as to add in version 2.
+Now 3rd version for direct commit.
